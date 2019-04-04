@@ -13,4 +13,4 @@ All solutions are written in C++, and mainly use these libraries:
 * stdlib
 * time
 
-*These solutions do not need to be most the optimal ones - they just need to work. So don't expect elegant solutions.
+*These solutions do not need to be most the optimal ones - they just need to work. So don't expect elegant solutions.*
